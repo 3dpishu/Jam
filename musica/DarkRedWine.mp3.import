@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/DarkRedWine.mp3-f7f562dc977dfe4773607d7ac4c2959d.mp3str"
+
+[deps]
+
+source_file="res://musica/DarkRedWine.mp3"
+dest_files=[ "res://.import/DarkRedWine.mp3-f7f562dc977dfe4773607d7ac4c2959d.mp3str" ]
+
+[params]
+
+loop=true
+loop_offset=0

@@ -1,0 +1,18 @@
+[gd_resource type="Environment" load_steps=2 format=2]
+
+[sub_resource type="ProceduralSky" id=1]
+sky_curve = 0.28245
+sun_latitude = -39.12
+sun_longitude = -88.24
+sun_angle_min = 61.0
+
+[resource]
+background_mode = 2
+background_sky = SubResource( 1 )
+background_sky_custom_fov = 77.2
+background_sky_orientation = Basis( 0.99999, -0.00109955, 0.00427604, 0.00109956, 0.999999, 0, -0.00427604, 4.70176e-06, 0.999991 )
+background_energy = 0.84
+ambient_light_color = Color( 1, 1, 1, 1 )
+ambient_light_energy = 0.79
+adjustment_enabled = true
+adjustment_brightness = 0.86

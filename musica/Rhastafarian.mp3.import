@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/Rhastafarian.mp3-cc3379631250351de1916a844a7bcae5.mp3str"
+
+[deps]
+
+source_file="res://musica/Rhastafarian.mp3"
+dest_files=[ "res://.import/Rhastafarian.mp3-cc3379631250351de1916a844a7bcae5.mp3str" ]
+
+[params]
+
+loop=true
+loop_offset=0

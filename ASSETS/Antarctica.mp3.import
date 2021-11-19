@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/Antarctica.mp3-bba69b4bc0d775d592af56b5c6e25893.mp3str"
+
+[deps]
+
+source_file="res://ASSETS/Antarctica.mp3"
+dest_files=[ "res://.import/Antarctica.mp3-bba69b4bc0d775d592af56b5c6e25893.mp3str" ]
+
+[params]
+
+loop=true
+loop_offset=0
